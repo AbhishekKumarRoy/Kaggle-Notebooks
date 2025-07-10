@@ -1,2 +1,2 @@
 # Kaggle-Notebooks
-This repository contains the Kaggle notebooks
+This repository contains all my Kaggle notebooks and learnings :)
